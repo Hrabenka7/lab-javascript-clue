@@ -109,7 +109,7 @@ function pickMistery(){
 
 var misteryEnvelopeGlobal= pickMistery();
 
-// ?? 
+
 function revealMistery(misteryEnvelopeGlobal){
     var suspectCard = misteryEnvelopeGlobal[0];
     var roomCard = misteryEnvelopeGlobal[1]
